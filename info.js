@@ -46,7 +46,7 @@ if (fs.existsSync('config.env')) {
 
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || '',
+    SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=DddnSCgY#ITUQftcrUSlBbQfDj-vIiGfmRobUlD1FRgq78jlknGw',
     HANDLERS: process.env.HANDLERS || '.',
     IG: process.env.IG || 'https://instagram.com/sla.sher_/',
     INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
